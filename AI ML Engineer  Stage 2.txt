@@ -1,0 +1,59 @@
+Course curriculum
+
+Lesson 1 - Linear Regression
+
+Supervised Learning
+
+Simple Linear Regression
+
+Multiple Linear Regression
+
+Linear Regression using Python
+
+Quiz 1 Materials
+
+Lesson 1 - Quiz
+
+
+Lesson 2 - Non-linear Regression
+
+Polynomial Regression
+
+Choosing the Right Model
+
+Polynomial Regression using Python
+
+Quiz 2 Materials
+
+Quiz 2
+
+
+Lesson 3 - Logistic Regression
+
+Logistic Regression 1
+
+Logistic Regression 2
+
+
+Lesson 4 - Decision Tree & Random Forest
+
+Decision Tree & Random Forest 1
+
+Decision Tree & Random Forest 2
+
+Decision Tree & Random Forest 3
+
+Decision Tree & Random Forest 4
+
+
+Lesson 5 - Naive bayes/Support Vector Machine
+
+Naive bayes/Support Vector Machine 1
+
+Naive bayes/Support Vector Machine 2
+
+Naive bayes/Support Vector Machine 3
+
+
+Lesson 6 - Project - Scenario based
+Test 1
